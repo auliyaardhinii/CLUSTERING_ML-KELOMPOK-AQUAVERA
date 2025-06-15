@@ -25,3 +25,9 @@ Disusun oleh kelompok Aquavera, Telkom University :
 - `results/`: Gambar hasil clustering dan evaluasi.
 - `laporan/`: File laporan akhir.
 - `data/`: Dataset mentah dan bersih
+- 
+## MENAMBAHKAN VISUALISASI
+git add README.md
+git commit -m "Tambah visualisasi hasil clustering"
+git push
+
